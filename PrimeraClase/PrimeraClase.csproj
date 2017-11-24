@@ -84,6 +84,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\Scripts\CarMovements.cs" />
     <Compile Include="Assets\Scripts\CuveMovements.cs" />
     <Compile Include="Assets\Scripts\CuveRotate.cs" />
     <Compile Include="Assets\Scripts\EscalaPingPong.cs" />

@@ -109,7 +109,7 @@ MonoBehaviour:
   m_MinSize: {x: 887, y: 492}
   m_MaxSize: {x: 16012, y: 14042}
   vertical: 0
-  controlID: 9
+  controlID: 16611
 --- !u!114 &6
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -128,12 +128,12 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 0
-    width: 1068
+    width: 1089
     height: 635
   m_MinSize: {x: 610, y: 492}
   m_MaxSize: {x: 12010, y: 14042}
   vertical: 1
-  controlID: 10
+  controlID: 16612
 --- !u!114 &7
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -153,12 +153,12 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 0
-    width: 1068
+    width: 1089
     height: 364
   m_MinSize: {x: 610, y: 221}
   m_MaxSize: {x: 12010, y: 4021}
   vertical: 0
-  controlID: 11
+  controlID: 16613
 --- !u!114 &8
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -175,10 +175,10 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 0
-    width: 246
+    width: 242
     height: 364
-  m_MinSize: {x: 200, y: 200}
-  m_MaxSize: {x: 4000, y: 4000}
+  m_MinSize: {x: 202, y: 221}
+  m_MaxSize: {x: 4002, y: 4021}
   m_ActualView: {fileID: 14}
   m_Panes:
   - {fileID: 14}
@@ -198,12 +198,12 @@ MonoBehaviour:
   m_Children: []
   m_Position:
     serializedVersion: 2
-    x: 246
+    x: 242
     y: 0
-    width: 404
+    width: 423
     height: 364
-  m_MinSize: {x: 200, y: 200}
-  m_MaxSize: {x: 4000, y: 4000}
+  m_MinSize: {x: 204, y: 221}
+  m_MaxSize: {x: 4004, y: 4021}
   m_ActualView: {fileID: 15}
   m_Panes:
   - {fileID: 15}
@@ -224,9 +224,9 @@ MonoBehaviour:
   m_Children: []
   m_Position:
     serializedVersion: 2
-    x: 650
+    x: 665
     y: 0
-    width: 418
+    width: 424
     height: 364
   m_MinSize: {x: 204, y: 221}
   m_MaxSize: {x: 4004, y: 4021}
@@ -251,7 +251,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 364
-    width: 1068
+    width: 1089
     height: 271
   m_MinSize: {x: 232, y: 271}
   m_MaxSize: {x: 10002, y: 10021}
@@ -275,9 +275,9 @@ MonoBehaviour:
   m_Children: []
   m_Position:
     serializedVersion: 2
-    x: 1068
+    x: 1089
     y: 0
-    width: 298
+    width: 277
     height: 635
   m_MinSize: {x: 277, y: 71}
   m_MaxSize: {x: 4002, y: 4021}
@@ -308,9 +308,9 @@ MonoBehaviour:
   m_DepthBufferBits: 32
   m_Pos:
     serializedVersion: 2
-    x: 652
+    x: 667
     y: 92
-    width: 414
+    width: 420
     height: 343
   m_MaximizeOnPlay: 0
   m_Gizmos: 0
@@ -320,8 +320,8 @@ MonoBehaviour:
   m_ZoomArea:
     m_HRangeLocked: 0
     m_VRangeLocked: 0
-    m_HBaseRangeMin: -207
-    m_HBaseRangeMax: 207
+    m_HBaseRangeMin: -210
+    m_HBaseRangeMax: 210
     m_VBaseRangeMin: -163
     m_VBaseRangeMax: 163
     m_HAllowExceedBaseRangeMin: 1
@@ -340,25 +340,25 @@ MonoBehaviour:
       serializedVersion: 2
       x: 0
       y: 17
-      width: 414
+      width: 420
       height: 326
     m_Scale: {x: 1, y: 1}
-    m_Translation: {x: 207, y: 163}
+    m_Translation: {x: 210, y: 163}
     m_MarginLeft: 0
     m_MarginRight: 0
     m_MarginTop: 0
     m_MarginBottom: 0
     m_LastShownAreaInsideMargins:
       serializedVersion: 2
-      x: -207
+      x: -210
       y: -163
-      width: 414
+      width: 420
       height: 326
     m_MinimalGUI: 1
   m_defaultScale: 1
   m_TargetTexture: {fileID: 0}
   m_CurrentColorSpace: 0
-  m_LastWindowPixelSize: {x: 414, y: 343}
+  m_LastWindowPixelSize: {x: 420, y: 343}
   m_ClearInEditMode: 1
   m_NoCameraWarning: 1
   m_LowResolutionForAspectRatios: 01000000000100000100
@@ -386,27 +386,27 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 92
-    width: 244
+    width: 240
     height: 343
   m_TreeViewState:
-    scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 3c010000
-    m_LastClickedID: 0
-    m_ExpandedIDs: b2f0e6ffe41de7ff1afcffff00000000
+    scrollPos: {x: 0, y: 298}
+    m_SelectedIDs: cce8e6ff
+    m_LastClickedID: -1644340
+    m_ExpandedIDs: 54e9e6ff70e9e6ff7ee9e6ff7034e9ff8834e9ff4a6ffdff666ffdff1afcffff0000000058270000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
-      m_Name: 
-      m_OriginalName: 
+      m_Name: Shelby (1)
+      m_OriginalName: Shelby (1)
       m_EditFieldRect:
         serializedVersion: 2
         x: 0
         y: 0
         width: 0
         height: 0
-      m_UserData: 0
+      m_UserData: -1594704
       m_IsWaitingForDelay: 0
       m_IsRenaming: 0
-      m_OriginalEventType: 11
+      m_OriginalEventType: 0
       m_IsRenamingFilename: 0
       m_ClientGUIView: {fileID: 8}
     m_SearchString: 
@@ -437,19 +437,19 @@ MonoBehaviour:
   m_DepthBufferBits: 32
   m_Pos:
     serializedVersion: 2
-    x: 248
+    x: 244
     y: 92
-    width: 400
+    width: 419
     height: 343
   m_SceneLighting: 1
-  lastFramingTime: 15303.664975146517
+  lastFramingTime: 18008.767623228767
   m_2DMode: 0
   m_isRotationLocked: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: -0.18158674, y: 6.117654, z: -10.397675}
+    m_Target: {x: -43.786636, y: -0.955173, z: -2.3514194}
     speed: 2
-    m_Value: {x: -0.18158674, y: 6.117654, z: -10.397675}
+    m_Value: {x: -43.786636, y: -0.955173, z: -2.3514194}
   m_RenderMode: 0
   m_ValidateTrueMetals: 0
   m_SceneViewState:
@@ -472,13 +472,13 @@ MonoBehaviour:
       speed: 2
       m_Value: 0
   m_Rotation:
-    m_Target: {x: 0.29263252, y: -0.01147503, z: 0.0035118854, w: 0.9561497}
+    m_Target: {x: -0.069376, y: 0.8663191, z: -0.12562484, w: -0.47843152}
     speed: 2
-    m_Value: {x: 0.29263252, y: -0.01147503, z: 0.0035118854, w: 0.9561497}
+    m_Value: {x: -0.069376, y: 0.8663191, z: -0.12562484, w: -0.47843152}
   m_Size:
-    m_Target: 22
+    m_Target: 12.208467
     speed: 2
-    m_Value: 22
+    m_Value: 12.208467
   m_Ortho:
     m_Target: 0
     speed: 2
@@ -539,7 +539,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 456
-    width: 1066
+    width: 1087
     height: 250
   m_SearchFilter:
     m_NameFilter: 
@@ -553,19 +553,19 @@ MonoBehaviour:
     m_ShowAllHits: 0
     m_SearchArea: 0
     m_Folders:
-    - Assets
+    - Assets/Prefabs/audiR8/Materials
   m_ViewMode: 1
   m_StartGridSize: 16
   m_LastFolders:
-  - Assets
+  - Assets/Prefabs/audiR8/Materials
   m_LastFoldersGridSize: 16
   m_LastProjectPath: C:\Users\ALUMNO\Documents\Clases_Unity\PrimeraClase
   m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 12260000
-    m_LastClickedID: 9746
-    m_ExpandedIDs: 0000000012260000742600008226000000ca9a3bffffff7f
+    m_SelectedIDs: 38b60000
+    m_LastClickedID: 46648
+    m_ExpandedIDs: 0000000020260000822600009026000006b6000000ca9a3bffffff7f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -593,7 +593,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000122600007426000082260000
+    m_ExpandedIDs: 0000000020260000822600009026000000ca9a3bffffff7f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -696,9 +696,9 @@ MonoBehaviour:
   m_DepthBufferBits: 0
   m_Pos:
     serializedVersion: 2
-    x: 1070
+    x: 1091
     y: 92
-    width: 296
+    width: 275
     height: 614
   m_ScrollPosition: {x: 0, y: 0}
   m_InspectorMode: 0

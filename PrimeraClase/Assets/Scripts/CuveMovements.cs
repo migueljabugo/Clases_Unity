@@ -14,8 +14,8 @@ public class CuveMovements : MonoBehaviour
 
 
     public float speed = 20;
-    private float Depth;
-    private float horizontal;
+    public float Depth;
+    public float horizontal;
 
 
     void Start()
@@ -29,10 +29,18 @@ public class CuveMovements : MonoBehaviour
         Depth = Input.GetAxis("Vertical");
         horizontal = Input.GetAxis("Horizontal");
 
+        Vector3 movement = new Vector3(horizontal, 0, Depth);
+
+        movement = movement.normalized * speed * Time.deltaTime;
+
+        transform.Translate(movement);
+
+        /*
+        //Movimiento hacia delante y detras
         transform.position += transform.forward * Depth * speed * Time.deltaTime;
-
+        //Movimiento hacia derecha e izquierda
         transform.position += transform.right * horizontal * speed * Time.deltaTime;
-
+        */
 
         /* 
          //Forma preguntando por cada tecla pulsada
